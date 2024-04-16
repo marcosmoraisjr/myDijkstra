@@ -131,15 +131,17 @@ def main():
         'F': {'D': 4, 'E': 3}
     }
 
-    #print('       C-- 8 --E     ')
-    #print('      /|\      |\    ')
-    #print('     2 | \     | 3   ')
-    #print('    /  |  \    |  \  ')
-    #print('   A   7   4   6   F ')
-    #print('    \  |    \  |  /  ')
-    #print('     5 |     \ | 4   ')
-    #print('      \|      \|/    ')
-    #print('       B-- 8 --D     ')
+    print(' ')
+    print('       C-- 8 --E     ')
+    print('      /|\      |\    ')
+    print('     2 | \     | 3   ')
+    print('    /  |  \    |  \  ')
+    print('   A   7   4   6   F ')
+    print('    \  |    \  |  /  ')
+    print('     5 |     \ | 4   ')
+    print('      \|      \|/    ')
+    print('       B-- 8 --D     ')
+    print(' ') 
 
     # Solicitar origem e destino ao usuário
     origem = input("Digite o vértice de origem: ").upper()
