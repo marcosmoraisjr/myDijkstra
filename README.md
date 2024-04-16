@@ -222,14 +222,13 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE](https://github.
 ## 🖇️ Contribuições
 
 * Conte a outras pessoas sobre este projeto 📢;
-* 
+  
 ## 🎁 Recursos Adicionais
 
 * Algoritmo de Dijkstra: https://akiradev.netlify.app/posts/algoritmo-dijkstra/;
 * Python-based evaluation of road network constraints for electric scooters and bicycles: Izmit Example: https://doi.org/10.26833/ijeg.1261677
 * Development of a software module for calculating the shortest path problem implemented by the Bellman-Ford algorithm: https://doi.org/10.1063/5.0182582
-
-GeeksforGeeks - Dijkstra's Algorithm: https://www.geeksforgeeks.org/videos/dijkstras-shortest-path-algorithm/.
+* GeeksforGeeks - Dijkstra's Algorithm: https://www.geeksforgeeks.org/videos/dijkstras-shortest-path-algorithm/.
 
 ## 🏆 Agradecimentos
 * Agradeço a todos pelas contribuições futuras cooperando para a evolução deste projeto.
