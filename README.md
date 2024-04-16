@@ -31,6 +31,7 @@ pip install -r dependencias.txt
 ```
 ## ⚙️ O Código
 
+Vamos dividir o código em três arquivos Python separados: um para as definições de utilitários e funções, outro para a definição do grafo e a lógica principal, e um terceiro para o código de execução principal.
 
 *  util.py (para as definições de utilitários e funções):
 ```python
