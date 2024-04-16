@@ -1,6 +1,9 @@
+
 # myDijkstra
 
 O projeto myDijkstra implementa o algoritmo de Dijkstra para encontrar o caminho mais curto entre dois vértices em um grafo. O código é escrito em Python e pode ser utilizado para diversos propósitos, como roteamento em redes de computadores, navegação GPS e planejamento de viagens.
+
+![Artigo LinkedIn - 1200 x 627 - Dijkstra](https://github.com/marcosmoraisjr/myDijkstra/assets/26969915/fc4ba445-800b-418c-951e-019e59781df9)
 
 ## 🚀 Começando
 
