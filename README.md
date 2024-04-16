@@ -78,7 +78,7 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE](https://github.
 * Wikipedia - Algoritmo de Dijkstra: https://pt.wikipedia.org/wiki/Algoritmo_de_Dijkstra;
 * GeeksforGeeks - Dijkstra's Algorithm: https://www.geeksforgeeks.org/videos/dijkstras-shortest-path-algorithm/.
 
-## Agradecimentos
+## 🏆 Agradecimentos
 * Conte a outras pessoas sobre este projeto 📢;
 * Agradeço a todos que contribuíram para o desenvolvimento deste projeto.
 * Agradeço especialmente ao meu estimado professor no mestrado [João B. Rocha-Junior](https://pgcc.uefs.br/sobre/docentes/joao), Doutor em em Ciência da Computação, NTNU, Noruega, pelos ensinamentos.
