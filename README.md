@@ -219,18 +219,18 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/ma
 
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](https://github.com/marcosmoraisjr/myDijkstra/blob/main/LICENSE) para detalhes.
 
-## 🖇️ Agradecimentos
+## 🖇️ Contribuições
 
 * Conte a outras pessoas sobre este projeto 📢;
-* Agradeço a todos pelas contribuições futuras cooperando para a evolução deste projeto.
-
+* 
 ## 🎁 Recursos Adicionais
 
 * Algoritmo de Dijkstra: https://akiradev.netlify.app/posts/algoritmo-dijkstra/;
-* Wikipedia - Algoritmo de Dijkstra: https://pt.wikipedia.org/wiki/Algoritmo_de_Dijkstra;
-* GeeksforGeeks - Dijkstra's Algorithm: https://www.geeksforgeeks.org/videos/dijkstras-shortest-path-algorithm/.
+* Python-based evaluation of road network constraints for electric scooters and bicycles: Izmit Example: https://doi.org/10.26833/ijeg.1261677
+* Development of a software module for calculating the shortest path problem implemented by the Bellman-Ford algorithm: https://doi.org/10.1063/5.0182582
+
+GeeksforGeeks - Dijkstra's Algorithm: https://www.geeksforgeeks.org/videos/dijkstras-shortest-path-algorithm/.
 
 ## 🏆 Agradecimentos
-* Conte a outras pessoas sobre este projeto 📢;
-* Agradeço a todos que contribuíram para o desenvolvimento deste projeto.
+* Agradeço a todos pelas contribuições futuras cooperando para a evolução deste projeto.
 * Agradeço especialmente ao meu estimado professor no mestrado [João B. Rocha-Junior](https://pgcc.uefs.br/sobre/docentes/joao), Doutor em em Ciência da Computação, NTNU, Noruega, pelos ensinamentos.
