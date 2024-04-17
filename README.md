@@ -217,7 +217,7 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/ma
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](https://github.com/marcosmoraisjr/myDijkstra/blob/main/LICENSE) para detalhes.
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](https://github.com/marcosmoraisjr/myDijkstra/LICENSE.mb) para detalhes.
 
 ## 🖇️ Contribuições
 
